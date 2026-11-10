@@ -1,0 +1,6 @@
+{
+  "name": "Live Training Satisfaction Survey & Dashboard",
+  "description": "ระบบประเมินความพึงพอใจการอบรมแบบเรียลไทม์ สเกล 1-5 พร้อม Live Dashboard ขึ้นจอโปรเจกเตอร์ สแกน QR Code และส่งออก CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
